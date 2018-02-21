@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"workItemID":44,"msrID":"UN67677","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:00","memberNo":"29860689","memberName":"John","phoneNo":"212-345-6785","details":"Why did I get charged a fee?","status":true}]
