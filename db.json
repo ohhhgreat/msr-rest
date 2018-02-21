@@ -1,1 +1,4 @@
-{"UN67677" : [{"workItemID":44,"msrID":"UN67677","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:00","memberNo":"29860689","memberName":"John","phoneNo":"212-345-6785","details":"Why did I get charged a fee?","status":true}]}
+{"UN67677" : [{"workItemID":44,"msrID":"UN67677","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:00","memberNo":"29860689","memberName":"John","phoneNo":"212-345-6785","details":"Why did I get charged a fee?","status":true},
+             {"workItemID":44,"msrID":"UN67677","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:00","memberNo":"29860689","memberName":"John","phoneNo":"212-345-6785","details":"WHYYYYY did I get charged a fee?","status":true},
+             {"workItemID":44,"msrID":"UN67677","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:00","memberNo":"29860689","memberName":"John","phoneNo":"212-345-6785","details":"Why did I get chaAAAAARGED??","status":true},
+]}
