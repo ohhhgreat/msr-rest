@@ -1,39 +1,8 @@
 {
-  "44" : {
-                "workItemID":44,
-                "msrID":"UN67677",
-                 "lineOfBusiness":"Deposits",
-                 "date":"2018-02-21",
-                 "time":"08:00",
-                 "memberNo":"29860689",
-                 "memberName":"John Smith",
-                 "phoneNo":"212-345-6785",
-                 "details":"Why did I get charged a fee?",
-                 "status":true
-              },
+  "44" : {"workItemID":44,"msrID":"UN67677","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:00","memberNo":"29860689","memberName":"John","phoneNo":"212-345-6785","details":"Why did I get charged a fee?","status":false},
 
-             "45" : {
-               "workItemID":45,
-               "msrID":"UN67677",
-               "lineOfBusiness":"Deposits",
-               "date":"2018-02-21",
-               "time":"08:00",
-               "memberNo":"29860689",
-               "memberName":"Rebecca Davis",
-               "phoneNo":"212-345-6785",
-               "details":"WHYYYYY did I get charged a fee?",
-               "status":true
-             },
-            "46" : {
-               "workItemID":46,
-               "msrID":"UN67677",
-               "lineOfBusiness":"Deposits",
-               "date":"2018-02-21",
-               "time":"08:00",
-               "memberNo":"29860689",
-               "memberName":"Shirley Caesar",
-               "phoneNo":"212-345-6785",
-               "details":"Why did I get chaAAAAARGED??",
-               "status":true
-             }
+             "45" : {"workItemID":45,"msrID":"UN67678","lineOfBusiness":"Deposits","date":"2018-02-21","time":"08:30","memberNo":"29860700","memberName":"Mike","phoneNo":"976-678-7865","details":"How can I add my daughter as my account POD?","status":false},
+            "46" : {"workItemID":46,"msrID":"UN67679","lineOfBusiness":"Deposits","date":"2018-02-21","time":"10:00","memberNo":"29880700","memberName":"Kate","phoneNo":"789-676-0980","details":"Can I add Trust as joint account holder?","status":false}
 }
+
+
