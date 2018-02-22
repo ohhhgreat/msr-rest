@@ -1,5 +1,5 @@
-{"UN67677" : [
-              {
+{
+  "44" : {
                 "workItemID":44,
                 "msrID":"UN67677",
                  "lineOfBusiness":"Deposits",
@@ -11,7 +11,8 @@
                  "details":"Why did I get charged a fee?",
                  "status":true
               },
-             {
+
+             "45" : {
                "workItemID":45,
                "msrID":"UN67677",
                "lineOfBusiness":"Deposits",
@@ -23,7 +24,7 @@
                "details":"WHYYYYY did I get charged a fee?",
                "status":true
              },
-             {
+            "46" : {
                "workItemID":46,
                "msrID":"UN67677",
                "lineOfBusiness":"Deposits",
@@ -35,4 +36,4 @@
                "details":"Why did I get chaAAAAARGED??",
                "status":true
              }
-]}
+}
